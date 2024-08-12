@@ -1,0 +1,15 @@
+D:\buoicuoi\buoicuoi\buoicuoi\bin\Debug\buoicuoi.exe.config
+D:\buoicuoi\buoicuoi\buoicuoi\bin\Debug\buoicuoi.exe
+D:\buoicuoi\buoicuoi\buoicuoi\bin\Debug\buoicuoi.pdb
+D:\buoicuoi\buoicuoi\buoicuoi\bin\Debug\EntityFramework.dll
+D:\buoicuoi\buoicuoi\buoicuoi\bin\Debug\EntityFramework.SqlServer.dll
+D:\buoicuoi\buoicuoi\buoicuoi\bin\Debug\EntityFramework.xml
+D:\buoicuoi\buoicuoi\buoicuoi\bin\Debug\EntityFramework.SqlServer.xml
+D:\buoicuoi\buoicuoi\buoicuoi\obj\Debug\buoicuoi.csproj.AssemblyReference.cache
+D:\buoicuoi\buoicuoi\buoicuoi\obj\Debug\buoicuoi.Form1.resources
+D:\buoicuoi\buoicuoi\buoicuoi\obj\Debug\buoicuoi.Properties.Resources.resources
+D:\buoicuoi\buoicuoi\buoicuoi\obj\Debug\buoicuoi.csproj.GenerateResource.cache
+D:\buoicuoi\buoicuoi\buoicuoi\obj\Debug\buoicuoi.csproj.CoreCompileInputs.cache
+D:\buoicuoi\buoicuoi\buoicuoi\obj\Debug\buoicuoi.csproj.Up2Date
+D:\buoicuoi\buoicuoi\buoicuoi\obj\Debug\buoicuoi.exe
+D:\buoicuoi\buoicuoi\buoicuoi\obj\Debug\buoicuoi.pdb
